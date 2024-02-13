@@ -1,11 +1,3 @@
-<style>
-    .side-by-side {
-        display: inline-block;
-        width: 45%; /* Adjust width as needed */
-        margin-right: 5%; /* Adjust margin as needed */
-        vertical-align: top; /* Align paragraphs at the top */
-    }
-</style>
 <h1 align="center">Hi 👋, I'm Geetha Krishna Mannava</h1>
 <h3 align="center">A MSCS graduate student and a passionate Java Full Stack Developer, good at Crafting Cutting-Edge Web Solutions with Spring Boot, React.js, MongoDB and AWS</h3>
 
