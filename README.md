@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flask, Deep Learning**
 
-- 🤝 I’m Actively looking for **Spring 2024 Job Opportunities**
+- 🤝 I’m Actively looking for **Full Time Job Opportunities**
 
 - 💬 Ask me about **Spring Boot, MERN**
 
