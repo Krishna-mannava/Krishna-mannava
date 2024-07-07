@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Geetha Krishna Mannava</h1>
 <h3 align="center">A MSCS graduate student and a passionate Java Full Stack Developer, good at Crafting Cutting-Edge Web Solutions with Spring Boot, React.js, MongoDB and AWS</h3>
 
-- 🔭 I’m currently working on **Social Media Application**
+- 🔭 I’m currently working on **Azure AI Services**
 
-- 🌱 I’m currently learning **Flask, Deep Learning**
+- 🌱 I’m currently learning **Cognitive Services, Generative AI**
 
 - 🤝 I’m Actively looking for **Full Time Job Opportunities**
 
