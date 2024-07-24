@@ -7,7 +7,7 @@
 
 - 🤝 I’m Actively looking for **Full Time Job Opportunities**
 
-- 💬 Ask me about **Spring Boot, MERN**
+- 💬 Ask me about **Spring Boot, MERN, ETL, Data Analysis and Visualization**
 
 - 📫 How to reach me **krishnamannavams@gmail.com**
 
